@@ -1,2 +1,2 @@
 # fluttery
-flutter learning path
+flutter learning path with projects 
